@@ -1,1 +1,0 @@
-python3 ./regression_test2d.py -c -o /tmp/a -s 10 -g /tmp
